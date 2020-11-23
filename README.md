@@ -30,8 +30,8 @@ https://scidm.nchc.org.tw/dataset/best_wish12063/resource/8cf184e7-5218-44dc-854
 
 # 使⽤說明
 
-**1.點擊左下"+"號**
-![image](https://github.com/yujou0/Linebot/blob/master/2020.10.20/line機器人使用說明/1點擊左下%2B號.jpg)
+**1.點擊左下"+"號** /n
+![image](https://github.com/yujou0/Linebot/blob/master/2020.10.20/line機器人使用說明/1點擊左下%2B號.jpg) /n
 **2.點擊位置訊息**
 ![image](https://github.com/yujou0/Linebot/blob/master/2020.10.20/line機器人使用說明/2點擊位置訊息.jpg)
 **3.公開所在位置**

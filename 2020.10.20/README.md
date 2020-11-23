@@ -50,4 +50,4 @@ https://scidm.nchc.org.tw/dataset/best_wish12063/resource/8cf184e7-5218-44dc-854
 10.點選功能5
 ![image](https://github.com/yujou0/Linebot/blob/master/2020.10.20/line機器人使用說明/10當輸入有誤時.jpg)
 ## 作業連結
-- [儲存庫](https://github.com/)
+- [儲存庫](https://github.com/yujou0/Linebot)
